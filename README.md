@@ -1,11 +1,12 @@
 
 
-                                         # WDL - 2020
 
+<h1 align="center">WDL-2020</h1>
 Course Owner : Prof Abdul Salam
 
 
-By : 
+By :
+
 **1. Affan [18CO57]**
 
 **2. Sufiyan [18CO69]**
