@@ -13,7 +13,7 @@
 
 
 
-<h1 align:center> WDL - 2020 </h1> <br>
+<h1 align="center"> WDL - 2020 </h1> <br>
 
 Course Owner : Prof Abdul Salam 
 
