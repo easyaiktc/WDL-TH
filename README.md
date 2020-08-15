@@ -31,7 +31,7 @@ Course Owner : Prof Abdul Salam
 
 <div> 1. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/aboutus" target="_blank"> <b>About Us  </b> </a></div> 
 
-<div> 2. <b> [Home](https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/home)</b> </div>
+<div> 2. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/home"><b> Home</b></a> </div>
 
 <div> 3. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/register" target="_blank"><b>Register</b> </a> </div>
 
