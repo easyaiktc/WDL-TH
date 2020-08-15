@@ -29,7 +29,7 @@ Course Owner : Prof Abdul Salam
 
 <div> <b> Exp No 2 : Create a simple html page.</b> </div> <br>
 
-<div> 1. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/aboutus" target="_blank"> <b>About Us  </b> </a> <a href="https://raw.githubusercontent.com/AffanTheBest/WDL-TH/Exps/Exp-2/aboutus.html">Get Code</a></div> 
+<div> 1. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/aboutus" target="_blank"> <b>About Us  </b> </a>></div> 
 
 <div> 2. <a href="https://affanthebest.github.io/WDL-TH/Experiments/Exp-2/home" target="_blank"><b> Home</b></a> </div>
 
@@ -39,7 +39,7 @@ Course Owner : Prof Abdul Salam
 
 </html>
 
-[Affan](google.com)
+
 
 
 
