@@ -1,0 +1,85 @@
+*{
+    margin: 0%; padding: 0%; box-sizing: border-box;
+}
+
+.nav-item a{color: #fff!important;}
+
+.header{
+	width: 100%;
+	height: 100vh;
+	background-color:blu; 
+	background-image: url('https://source.unsplash.com/1600x900/?web-designing,computer-software,website-development,software-development');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	clip-path: polygon(100% 0%, 100% 75% , 50% 100% , 0% 75%, 0 0);
+	position: relative;
+}
+
+
+ .header-section{
+	width: 100%;
+	height: inherit;
+	color :white;
+	position: relative;
+	text-align: center;
+} 
+
+.center-div{
+width: 100%
+height:auto;
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+}
+
+.center-div p{
+	color: #bfbdbd;
+}
+
+.teaminfo{
+box-shadow: 0 0 40px 0 #0516ff;
+margin-left:auto;
+margin-right:auto;
+background:linear-gradient(160deg, #b7e2f7 50%, #2ad1b8 60%);
+border-radius:7px;
+}
+
+.teaminfo:hover{
+    box-shadow: box-shadow: 0 0 20px 0 #000;
+	transform:translateY(-10px);
+	transition:0.5s;
+}
+
+.exp{
+	box-shadow: 0 0 40px 0 #2cf5e1;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	background:linear-gradient(330deg, #b7e2f7 50%, #ff5962 60%);
+	border-radius:30px;
+}
+.exp:hover{
+	transform:translateY(-10px);
+	transition:0.5s;
+}
+
+.exp a{
+	border:1px solid cyan;
+	border-radius:100px;
+	margin: 0 5px;
+	padding:6px 25px;
+	color:#fff;
+	text-decoration:none;
+	outline:none;
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 1.4;
+    text-align: center;
+}
+.exp a:hover{
+	background:#fff!important;
+	color:#4d75f7;
+	box-shadow: box-shadow: 0 0 20px 0 #000;
+}
+
