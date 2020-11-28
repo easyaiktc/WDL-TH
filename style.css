@@ -1,13 +1,11 @@
 *{
     margin: 0%; padding: 0%; box-sizing: border-box;
 }
-
 .nav-item a{color: #fff!important;}
 
 .header{
 	width: 100%;
 	height: 80vh;
-	background-color:blu; 
 	background-image: url('https://source.unsplash.com/1600x900/?web-designing,computer-software,website-development,software-development');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -17,8 +15,9 @@
 
 
  .header-section{
+	background-color: rgba(0,0,0,0.3)!important;
 	width: 100%;
-	height: inherit;
+	/* height: inherit; */
 	color :white;
 	position: relative;
 	text-align: center;
